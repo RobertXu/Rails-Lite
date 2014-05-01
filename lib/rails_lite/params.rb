@@ -1,5 +1,6 @@
 require 'uri'
 require 'active_support/core_ext/hash/indifferent_access'
+#comments are phun
 
 class Params
   # use your initialize to merge params from
